@@ -3,6 +3,7 @@
 *.docx
 *.png
 *.pdf
+*.pyc
 
 # Folders
 /data

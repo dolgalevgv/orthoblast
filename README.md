@@ -14,3 +14,5 @@ Orthoblast is a tool that blasts a set of human proteins vs a set of genomes, wh
 -n: Name for a folder inside "results" in program directory where the output will be stored
   
 After every run, you can find your results in the folder "results"
+
+![Results example](preview.png)

@@ -15,4 +15,4 @@ Orthoblast is a tool that blasts a set of human proteins vs a set of genomes, wh
   
 After every run, you can find your results in the folder "results"
 
-![Results example](preview.png)
+!(preview.png)
